@@ -11,14 +11,14 @@ const start = [
     title: "Web Application 1",
     cat: "Web",
     desc: "A simple shop site built with React components.",
-    img: "https://picsum.photos/400/250?random=1"
+    img: "https://picsum.photos/id/1015/400/250"
   },
   {
     id: 2,
     title: "Creative Branding Logo",
     cat: "Brand",
     desc: "A clean student design portfolio concept.",
-    img: "https://picsum.photos/400/250?random=2"
+    img: "https://picsum.photos/id/1016/400/250"
   }
 ];
 
